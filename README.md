@@ -5,5 +5,6 @@ The dataset contains both text and image data. The text has been separated from 
 ### Project:
 The goal of this project is to design a system to describe an image with emotions, and present a model that automatically generates captions with positive or negative sentiments. We will make a model for Sentence level Multimodal Sentiment Analysis. By using Pytorch, that can take both the textual and visual information in the dataset, we will perform sentiment analysis and come to a conclusion that whether a positive or negative sentiment is found.
 <br/>
+
 Dataset Link: https://www.kaggle.com/datasets/prathamsaraf1389/senticap
 
